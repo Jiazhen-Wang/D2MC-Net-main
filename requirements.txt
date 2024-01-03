@@ -1,0 +1,8 @@
+numpy>=1.23.1
+matplotlib>=3.7.0
+fastmri>=0.2.0
+pillow>=9.2.0
+scikit-image>=0.19.3
+opencv-python>=4.6.0.66
+scipy>=1.9.2
+torchvision>=0.13.1
